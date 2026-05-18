@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-18T14:04:20.373Z",
+  "generatedAt": "2026-05-18T18:59:11.093Z",
   "scope": "chapter1",
   "template": {
     "path": "WritingStyle\\ChapterTemplate-v2.md",
@@ -44,7 +44,7 @@
       "orderIssues": [],
       "unexpectedSectionsAfterPlan": [],
       "spacing": {
-        "multiBlankLineGaps": 2,
+        "multiBlankLineGaps": 1,
         "trailingSpaces": 0,
         "missingBlankLineAfterHeadings": 0,
         "sceneBreakSpacingIssues": 0
@@ -68,7 +68,7 @@
       "missingVoiceElementsAcrossChapter": [],
       "weakMainTopicSections": [],
       "recommendations": [],
-      "totalWordCount": 4782
+      "totalWordCount": 4786
     }
   ]
 }

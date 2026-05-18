@@ -1,4 +1,4 @@
-# Chapter 1: The Building Blocks of Health
+﻿# Chapter 1: The Building Blocks of Health
 
 <!-- SECTION: Introduction -->
 ## Introduction
@@ -68,8 +68,6 @@ Judy smiles. "Water is one of the simplest and most affordable ways to start reb
 
 Alex takes a sip and nods. "One glass at a time."
 
-*Affirmation: "It's okay to start small. Progress, not perfection."*
-
 ### Reflective Summary: Water
 
 - Prioritize drinking regularly rather than waiting until you feel very thirsty.
@@ -77,13 +75,15 @@ Alex takes a sip and nods. "One glass at a time."
 - Spring water offers naturally occurring minerals
 - If you use distilled water regularly, it is suggested that you put some celtic or raw unrefined sea salt in the water to replenish the minerals lost in the distillation process.
 
-Reference:
+*Affirmation: "It's okay to start small. Progress, not perfection."*
+
+References:
 [1] National Kidney Foundation. "Dehydration and Chronic Kidney Disease." `nkf.org`
 
 <!-- SECTION: Minerals -->
 ## Minerals
 
-(Narrator: Once hydration is in place, minerals make more sense. Minerals help with nerve signaling, mudscle contraction, fluid balance, bone structure, thyroid function, and many other processes. They do not operate in isolation. They work in relationship with water, vitamins, proteins, and enzymes.)
+(Narrator: Once hydration is in place, minerals make more sense. Minerals help with nerve signaling, muscle contraction, fluid balance, bone structure, thyroid function, and many other processes. They do not operate in isolation. They work in relationship with water, vitamins, proteins, and enzymes.)
 
 The next day at lunch, Judy sets a colorful bowl in front of Alex. It is full of leafy greens, beans, pumpkin seeds, and sliced vegetables.
 
@@ -131,7 +131,7 @@ Alex grins. "And if all else fails, I can always pretend my blender is not decor
 - They do not work in isolation; their effectiveness depends on their relationship with water, vitamins, proteins, and enzymes.
 - Soil depletion and limited dietary variety can contribute to deficiencies, making it important to prioritize mineral-rich whole foods.
 - Practical sources include leafy greens, nuts, seeds, beans, lentils, and sea vegetables.
-- Supplements can help, but bioavailability matters—choose wisely and prioritize food first when possible.
+- Supplements can help, but bioavailability matters - choose wisely and prioritize food first when possible.
 
 *Affirmation: "Small changes add up. I'm allowed to make mistakes and try again."*
 
@@ -141,8 +141,6 @@ References:
 
 <!-- SECTION: Vitamins -->
 ## Vitamins
-
-
 
 (Narrator: Vitamins come next, acting as helpers and catalysts in countless body processes. They support immunity, energy production, vision, blood health, bone health, repair, and more. They also interact with minerals and other nutrients rather than working as isolated stars.)
 
@@ -182,7 +180,6 @@ Alex grins. "So eat the rainbow, but do not get tricked by the rainbow shelf in 
 
 *This is starting to feel less like decoding internet chaos and more like building a decent shopping list.*
 
-
 (Narrator: Whole-food sources and balanced intake still matter even when supplements are used. The body does not only need ingredients. It needs context, balance, and consistency.[2])
 
 ### Reflective Summary: Vitamins
@@ -191,7 +188,7 @@ Alex grins. "So eat the rainbow, but do not get tricked by the rainbow shelf in 
 - They work synergistically with minerals, proteins, and enzymes to support overall well-being.
 - A diverse diet rich in colorful fruits and vegetables ensures a broad spectrum of vitamins.
 - Deficiencies can arise from poor dietary habits, stress, or medical conditions, making it important to focus on whole-food sources.
-- Supplements can fill gaps, but quality and balance are key—prioritize food first whenever possible.
+- Supplements can fill gaps, but quality and balance are key - prioritize food first whenever possible.
 
 *Affirmation: "I'm allowed to nourish myself, even if it feels new or awkward."*
 
@@ -374,9 +371,9 @@ Start with one or two swaps. Small wins are easier to repeat than dramatic overh
 |                |                  |
 |                |                  |
 
-*Affirmation: "Small, consistent changes add up. I can make healthy choices that fit my life."*
-
 (Narrator: You do not have to give up every favorite food. You just have to find better patterns inside the life you already live.)
+
+*Affirmation: "Small, consistent changes add up. I can make healthy choices that fit my life."*
 
 <!-- SECTION: Closing Reflection -->
 ## Closing Reflection
@@ -398,3 +395,4 @@ Judy nods. "One glass. One meal. One better combination at a time. That is how m
 (Narrator: In the next chapter, we will go deeper into how these pieces connect inside the body, because the real power is not just in knowing the parts, but in seeing how they work together.)
 
 *Affirmation: "I do not have to fix everything at once. I can rebuild my health one wise step at a time."*
+
