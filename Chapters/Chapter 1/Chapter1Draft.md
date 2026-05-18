@@ -395,4 +395,3 @@ Judy nods. "One glass. One meal. One better combination at a time. That is how m
 (Narrator: In the next chapter, we will go deeper into how these pieces connect inside the body, because the real power is not just in knowing the parts, but in seeing how they work together.)
 
 *Affirmation: "I do not have to fix everything at once. I can rebuild my health one wise step at a time."*
-
