@@ -24,7 +24,7 @@ On Monday afternoon, Judy walked into the office break room and noticed a small 
 
 Alex's water bottle was filled. A shaker cup was clean and ready beside his lunch bag. Oats sat in the front of his desk drawer instead of buried behind snacks. A bag of greens was visible in the shared fridge with his name on it.
 
-Judy smiled. "Look at this. Evidence of civilization."
+Judy smiled. "Look at this. Evidence of a plan."
 
 Alex shrugged, trying not to look too pleased. "I moved the good choices where I could actually see them."
 
@@ -52,7 +52,7 @@ After the call, he looked mildly stunned.
 
 Judy raised an eyebrow. "You survived."
 
-"Barely," he said. "Apparently accountability is humiliating."
+"Barely," he said. "Apparently asking for help still feels more dramatic than it should."
 
 *Also... possibly useful.*
 

@@ -62,7 +62,7 @@ On Wednesday afternoon, Judy held up spinach in one hand and frozen mango in the
 
 Alex smiled. "I prefer that to pretending I enjoy drinking yard clippings."
 
-*It was amazing how much more hopeful health felt when it stopped requiring culinary martyrdom.*
+*It was amazing how much more possible health felt when it stopped tasting like punishment.*
 
 (Narrator: Flavor engineering means understanding balance. Bitter greens often need sweetness or brightness. Sea vegetables usually work better in savory blends, broths, eggs, or soups than in sweet smoothies. Lemon can lift heaviness. Ginger can sharpen dull flavors. Frozen fruit can create texture people actually want. Yogurt, avocado, or nut butter can soften rough edges. Cinnamon and cocoa can add warmth without turning the whole drink into dessert.)
 

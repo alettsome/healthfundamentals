@@ -26,7 +26,7 @@ In many cultures, the daily ritual of tea is more than comfort - it's a gentle, 
 
 On Wednesday evening, Alex spotted an online ad promising a "three-day total reset cleanse" while he sat in the office break room.
 
-"This feels about as trustworthy as a used car ad," he said, raising an eyebrow at the screen.
+"This feels about as trustworthy as a late-night infomercial," he said, raising an eyebrow at the screen.
 
 Judy glanced over his shoulder. "Because it is dramatic?"
 
@@ -363,7 +363,5 @@ Alex smiled tiredly. "That may be the most compassionate definition of detox I h
 *For the first time, reduction did not sound like punishment. It sounded like breathing room.*
 
 (Narrator: Exactly. Sometimes progress begins not by forcing more in, but by finally letting some things go.)
-
 (Narrator: In the next chapter, we move into the long game: how readers keep their gains, recover from setbacks, and build health that can survive imperfect seasons.)
-
 

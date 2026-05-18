@@ -20,11 +20,11 @@ This chapter is about the missing instruction manual. It is about the difference
 
 On Monday afternoon, Alex held up a greens powder container and squinted at the label.
 
-"This thing claims it has vegetables, vitamins, minerals, mushrooms, herbs, enzymes, and basically inner peace."
+"This thing claims it has vegetables, vitamins, minerals, mushrooms, herbs, enzymes, and basically the answer to everything."
 
 Judy smiled. "That is because modern health marketing understands exhaustion. It knows people want a shortcut that feels clean and intelligent."
 
-*That was painfully true. I did not want to become my own farm. I wanted help that fit in a cupboard.*
+*That was painfully true. I did not want my kitchen to look like a greenhouse. I wanted help that fit in a cupboard.*
 
 (Narrator: This is why the bottle is so persuasive. It appears to remove friction. No chopping. No washing. No chewing. No texture. No cleanup. No grocery planning. Just concentrated certainty. But certainty is not the same thing as completeness, and convenience is not the same thing as cooperation inside the body.)
 

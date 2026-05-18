@@ -147,13 +147,13 @@ Judy glanced down and smiled with sympathy. "That list is not stupid. It is just
 
 She pulled out a chair. "Fragmentation makes everything feel urgent and separate. One post says you need magnesium. Another says you need probiotics. Another says hormones are the real issue. Another says it is your blood sugar. But the body does not experience those as totally unrelated departments."
 
-Alex rubbed his forehead. "So the problem is not that any one of those topics is fake. It is that they get presented like competing religions."
+Alex rubbed his forehead. "So the problem is not that any one of those topics is fake. It is that they all get presented like they are yelling over each other."
 
 (Narrator: Exactly. Fragmentation does not always lie outright. Often it tells partial truths in isolation. That is why people can spend money, collect information, and still feel stuck. They are trying to solve a systems problem with disconnected headlines.)
 
 Judy nodded. "That is why a framework matters. It helps you ask calmer questions. Am I hydrated? Am I eating real food often enough? Am I getting enough protein, minerals, and essential fats? Is digestion struggling? Is my routine sustainable? Those questions do not solve everything, but they stop you from getting dragged around by every new claim."
 
-Alex leaned back. "So this chapter is really teaching people how not to get intellectually mugged by wellness culture."
+Alex leaned back. "So this chapter is really teaching people how not to get pulled in six directions by wellness culture."
 
 "That," Judy said, laughing, "is one way to put it."
 

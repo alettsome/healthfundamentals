@@ -88,7 +88,7 @@ Alex exhaled slowly. "So the danger is not just misinformation. It is training m
 
 On Thursday evening, Judy handed Alex a website privacy policy.
 
-He looked at the screen, then at her, then back at the screen. "This is not a policy. This is a hostage situation in legal language."
+He looked at the screen, then at her, then back at the screen. "This is not a policy. This is a scavenger hunt written by lawyers."
 
 Judy laughed. "And yet this is where readers often click 'agree' without looking."
 

@@ -138,9 +138,9 @@ Alex nodded. "So this is not cheating. This is engineering."
 
 At a community supper the next evening, Alex studied the leftovers table with the solemn expression of a man seeking answers from casserole dishes.
 
-"Here is my concern," he said. "The minute health gets serious, everything starts sounding like a full-time job."
+"Here is my concern," he said. "The minute health gets serious, everything starts sounding like a second job."
 
-Judy nodded. "That happens because people confuse therapeutic support with total lifestyle theater."
+Judy nodded. "That happens because people confuse therapeutic support with turning life into a full production."
 
 *Lifestyle theater. That was painfully accurate.*
 
