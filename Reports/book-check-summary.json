@@ -1,0 +1,556 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-17T21:45:37.944Z",
+  "scope": "all",
+  "template": {
+    "path": "WritingStyle\\ChapterTemplate-v2.md",
+    "requiredAnchors": [
+      "Introduction",
+      "Integration: The Missing Link",
+      "Your Personal Food Swap Plan"
+    ],
+    "recommendedClosingHeadings": [
+      "Conclusion",
+      "Ending Summary",
+      "Closing Reflection",
+      "Key Takeaways"
+    ],
+    "optionalReferenceHeadings": [
+      "References",
+      "Notes",
+      "Sources"
+    ]
+  },
+  "summary": {
+    "chapterCount": 11,
+    "chaptersWithIssues": 0
+  },
+  "chapters": [
+    {
+      "file": "Chapter1Draft.md",
+      "headings": [
+        "Introduction",
+        "Water",
+        "Minerals",
+        "Vitamins",
+        "Protein / Essential Amino Acids",
+        "Essential Fats",
+        "Integration: The Missing Link",
+        "Your Personal Food Swap Plan",
+        "Closing Reflection"
+      ],
+      "hasIssues": false,
+      "missingRequiredSections": [],
+      "orderIssues": [],
+      "unexpectedSectionsAfterPlan": [],
+      "spacing": {
+        "multiBlankLineGaps": 0,
+        "trailingSpaces": 0,
+        "missingBlankLineAfterHeadings": 0,
+        "sceneBreakSpacingIssues": 0
+      },
+      "mainTopicSectionCount": 5,
+      "mainTopicSections": [
+        "Water",
+        "Minerals",
+        "Vitamins",
+        "Protein / Essential Amino Acids",
+        "Essential Fats"
+      ],
+      "practicalSubsections": [
+        "The Universal Building Block Smoothie",
+        "Affordable, Real-World Meal Ideas",
+        "Universal Principles for Integration"
+      ],
+      "hasClosingSection": true,
+      "closingHeading": "Closing Reflection",
+      "referencesHeading": null,
+      "missingVoiceElementsAcrossChapter": [],
+      "weakMainTopicSections": [],
+      "recommendations": [],
+      "totalWordCount": 5683
+    },
+    {
+      "file": "Chapter10Draft.md",
+      "headings": [
+        "Introduction",
+        "Supportive Environments",
+        "Community and Connection",
+        "Affirmations and Mindset",
+        "Resetting Without Starting Over",
+        "Practical Longevity In Real Life",
+        "Integration: The Missing Link",
+        "Your Personal Food Swap Plan",
+        "Closing Reflection"
+      ],
+      "hasIssues": false,
+      "missingRequiredSections": [],
+      "orderIssues": [],
+      "unexpectedSectionsAfterPlan": [],
+      "spacing": {
+        "multiBlankLineGaps": 0,
+        "trailingSpaces": 0,
+        "missingBlankLineAfterHeadings": 0,
+        "sceneBreakSpacingIssues": 0
+      },
+      "mainTopicSectionCount": 5,
+      "mainTopicSections": [
+        "Supportive Environments",
+        "Community and Connection",
+        "Affirmations and Mindset",
+        "Resetting Without Starting Over",
+        "Practical Longevity In Real Life"
+      ],
+      "practicalSubsections": [
+        "What Keeps Progress Alive",
+        "How To Recover From A Bad Week",
+        "Markers Of Real Progress"
+      ],
+      "hasClosingSection": true,
+      "closingHeading": "Closing Reflection",
+      "referencesHeading": null,
+      "missingVoiceElementsAcrossChapter": [],
+      "weakMainTopicSections": [],
+      "recommendations": [],
+      "totalWordCount": 1962
+    },
+    {
+      "file": "Chapter11Draft.md",
+      "headings": [
+        "Introduction",
+        "Why Tools Are So Appealing Now",
+        "Where Technology Can Genuinely Help",
+        "The Risks Of Outsourcing Your Judgment",
+        "Privacy, Ownership, And The Fine Print",
+        "Questions To Ask Before You Adopt A Tool",
+        "AI As Assistant, Not Authority",
+        "The Future Of Health Without Losing The Human",
+        "Integration: The Missing Link",
+        "Your Personal Food Swap Plan",
+        "Closing Reflection"
+      ],
+      "hasIssues": false,
+      "missingRequiredSections": [],
+      "orderIssues": [],
+      "unexpectedSectionsAfterPlan": [],
+      "spacing": {
+        "multiBlankLineGaps": 0,
+        "trailingSpaces": 0,
+        "missingBlankLineAfterHeadings": 0,
+        "sceneBreakSpacingIssues": 0
+      },
+      "mainTopicSectionCount": 7,
+      "mainTopicSections": [
+        "Why Tools Are So Appealing Now",
+        "Where Technology Can Genuinely Help",
+        "The Risks Of Outsourcing Your Judgment",
+        "Privacy, Ownership, And The Fine Print",
+        "Questions To Ask Before You Adopt A Tool",
+        "AI As Assistant, Not Authority",
+        "The Future Of Health Without Losing The Human"
+      ],
+      "practicalSubsections": [
+        "When A Tool Is Helping",
+        "When A Tool Is Taking Too Much",
+        "A Simple Technology Filter"
+      ],
+      "hasClosingSection": true,
+      "closingHeading": "Closing Reflection",
+      "referencesHeading": null,
+      "missingVoiceElementsAcrossChapter": [],
+      "weakMainTopicSections": [],
+      "recommendations": [],
+      "totalWordCount": 2659
+    },
+    {
+      "file": "Chapter2Draft.md",
+      "headings": [
+        "Introduction",
+        "Historical Context: Then and Now",
+        "Nutrient Interdependence",
+        "When One Thing Needs Another",
+        "The Symphony, Not The Solo",
+        "The Nervous System Connection",
+        "The Gut-Brain Connection",
+        "What Fragmentation Misses",
+        "Integration: The Missing Link",
+        "Your Personal Food Swap Plan",
+        "Closing Reflection"
+      ],
+      "hasIssues": false,
+      "missingRequiredSections": [],
+      "orderIssues": [],
+      "unexpectedSectionsAfterPlan": [],
+      "spacing": {
+        "multiBlankLineGaps": 0,
+        "trailingSpaces": 0,
+        "missingBlankLineAfterHeadings": 0,
+        "sceneBreakSpacingIssues": 0
+      },
+      "mainTopicSectionCount": 7,
+      "mainTopicSections": [
+        "Historical Context: Then and Now",
+        "Nutrient Interdependence",
+        "When One Thing Needs Another",
+        "The Symphony, Not The Solo",
+        "The Nervous System Connection",
+        "The Gut-Brain Connection",
+        "What Fragmentation Misses"
+      ],
+      "practicalSubsections": [
+        "What A Better Combination Looks Like",
+        "Signs You May Be Missing The Link",
+        "Practical Momentum For Busy Days"
+      ],
+      "hasClosingSection": true,
+      "closingHeading": "Closing Reflection",
+      "referencesHeading": null,
+      "missingVoiceElementsAcrossChapter": [],
+      "weakMainTopicSections": [],
+      "recommendations": [],
+      "totalWordCount": 3173
+    },
+    {
+      "file": "Chapter3Draft.md",
+      "headings": [
+        "Introduction",
+        "Historical Context: Then and Now",
+        "Blending First, Juicing Second",
+        "Bioavailability in Plain Language",
+        "The Harmony Of Whole-Food Delivery",
+        "Mineralization And Remineralization",
+        "Flavor Engineering For Real Life",
+        "Making Blending Easy Enough To Keep",
+        "Therapeutic Support Without Turning Life Into a Protocol",
+        "Avoiding Common Pitfalls",
+        "Integration: The Missing Link",
+        "Your Personal Food Swap Plan",
+        "Closing Reflection"
+      ],
+      "hasIssues": false,
+      "missingRequiredSections": [],
+      "orderIssues": [],
+      "unexpectedSectionsAfterPlan": [],
+      "spacing": {
+        "multiBlankLineGaps": 0,
+        "trailingSpaces": 0,
+        "missingBlankLineAfterHeadings": 0,
+        "sceneBreakSpacingIssues": 0
+      },
+      "mainTopicSectionCount": 9,
+      "mainTopicSections": [
+        "Historical Context: Then and Now",
+        "Blending First, Juicing Second",
+        "Bioavailability in Plain Language",
+        "The Harmony Of Whole-Food Delivery",
+        "Mineralization And Remineralization",
+        "Flavor Engineering For Real Life",
+        "Making Blending Easy Enough To Keep",
+        "Therapeutic Support Without Turning Life Into a Protocol",
+        "Avoiding Common Pitfalls"
+      ],
+      "practicalSubsections": [
+        "Fast Wins For Real Life",
+        "What To Notice When Something Is Working",
+        "What To Adjust Without Panic"
+      ],
+      "hasClosingSection": true,
+      "closingHeading": "Closing Reflection",
+      "referencesHeading": null,
+      "missingVoiceElementsAcrossChapter": [],
+      "weakMainTopicSections": [],
+      "recommendations": [],
+      "totalWordCount": 3311
+    },
+    {
+      "file": "Chapter4Draft.md",
+      "headings": [
+        "Introduction",
+        "Whole Foods vs. Supplements",
+        "When Natural Health Gets Fragmented Too",
+        "The Blind Spot In Natural Practice",
+        "The Foundation That Gets Withheld",
+        "Food Timing and Grouping",
+        "The Power of Rest",
+        "Movement as Medicine",
+        "Calm in the Chaos",
+        "Rewiring Your Mindset",
+        "Integration: The Missing Link",
+        "Your Personal Food Swap Plan",
+        "Closing Reflection"
+      ],
+      "hasIssues": false,
+      "missingRequiredSections": [],
+      "orderIssues": [],
+      "unexpectedSectionsAfterPlan": [],
+      "spacing": {
+        "multiBlankLineGaps": 0,
+        "trailingSpaces": 0,
+        "missingBlankLineAfterHeadings": 0,
+        "sceneBreakSpacingIssues": 0
+      },
+      "mainTopicSectionCount": 9,
+      "mainTopicSections": [
+        "Whole Foods vs. Supplements",
+        "When Natural Health Gets Fragmented Too",
+        "The Blind Spot In Natural Practice",
+        "The Foundation That Gets Withheld",
+        "Food Timing and Grouping",
+        "The Power of Rest",
+        "Movement as Medicine",
+        "Calm in the Chaos",
+        "Rewiring Your Mindset"
+      ],
+      "practicalSubsections": [
+        "A Simple Daily Rhythm",
+        "When Life Is Messy",
+        "What To Build First"
+      ],
+      "hasClosingSection": true,
+      "closingHeading": "Closing Reflection",
+      "referencesHeading": null,
+      "missingVoiceElementsAcrossChapter": [],
+      "weakMainTopicSections": [],
+      "recommendations": [],
+      "totalWordCount": 3145
+    },
+    {
+      "file": "Chapter5Draft.md",
+      "headings": [
+        "Introduction",
+        "Foods That Give You More For Less",
+        "The Superfood Illusion",
+        "Mineralizers In Plain Sight",
+        "Sea Vegetables, Herbs, and Small Powerful Additions",
+        "Buying Smart Without Health Perfectionism",
+        "Cleaning, Prep, and Storage That Keep Things Realistic",
+        "What An Affordable Healing Kitchen Can Look Like",
+        "Integration: The Missing Link",
+        "Your Personal Food Swap Plan",
+        "Closing Reflection"
+      ],
+      "hasIssues": false,
+      "missingRequiredSections": [],
+      "orderIssues": [],
+      "unexpectedSectionsAfterPlan": [],
+      "spacing": {
+        "multiBlankLineGaps": 0,
+        "trailingSpaces": 0,
+        "missingBlankLineAfterHeadings": 0,
+        "sceneBreakSpacingIssues": 0
+      },
+      "mainTopicSectionCount": 7,
+      "mainTopicSections": [
+        "Foods That Give You More For Less",
+        "The Superfood Illusion",
+        "Mineralizers In Plain Sight",
+        "Sea Vegetables, Herbs, and Small Powerful Additions",
+        "Buying Smart Without Health Perfectionism",
+        "Cleaning, Prep, and Storage That Keep Things Realistic",
+        "What An Affordable Healing Kitchen Can Look Like"
+      ],
+      "practicalSubsections": [
+        "Budget Foods Worth Respecting",
+        "Flavor And Function Upgrades",
+        "What To Buy On A Tight Week"
+      ],
+      "hasClosingSection": true,
+      "closingHeading": "Closing Reflection",
+      "referencesHeading": null,
+      "missingVoiceElementsAcrossChapter": [],
+      "weakMainTopicSections": [],
+      "recommendations": [],
+      "totalWordCount": 3079
+    },
+    {
+      "file": "Chapter6Draft.md",
+      "headings": [
+        "Introduction",
+        "Why Bottles Feel Like The Answer",
+        "The Extraction Paradox",
+        "The Cofactors The Label Does Not Teach",
+        "When Natural Health Gets Fragmented Too",
+        "Foundation Before Specialization",
+        "Integration: The Missing Link",
+        "Your Personal Food Swap Plan",
+        "Closing Reflection"
+      ],
+      "hasIssues": false,
+      "missingRequiredSections": [],
+      "orderIssues": [],
+      "unexpectedSectionsAfterPlan": [],
+      "spacing": {
+        "multiBlankLineGaps": 0,
+        "trailingSpaces": 0,
+        "missingBlankLineAfterHeadings": 0,
+        "sceneBreakSpacingIssues": 0
+      },
+      "mainTopicSectionCount": 5,
+      "mainTopicSections": [
+        "Why Bottles Feel Like The Answer",
+        "The Extraction Paradox",
+        "The Cofactors The Label Does Not Teach",
+        "When Natural Health Gets Fragmented Too",
+        "Foundation Before Specialization"
+      ],
+      "practicalSubsections": [
+        "Questions To Ask Before You Buy A Bottle",
+        "When A Supplement May Still Help",
+        "What To Rebuild First"
+      ],
+      "hasClosingSection": true,
+      "closingHeading": "Closing Reflection",
+      "referencesHeading": null,
+      "missingVoiceElementsAcrossChapter": [],
+      "weakMainTopicSections": [],
+      "recommendations": [],
+      "totalWordCount": 2099
+    },
+    {
+      "file": "Chapter7Draft.md",
+      "headings": [
+        "Introduction",
+        "The Superfood Illusion",
+        "The Common Food Reality",
+        "Mineralizing The Modern Plate",
+        "A Grocery Store Reframe",
+        "The Power Of Everyday Combinations",
+        "Building A Mineral Pattern Without Drama",
+        "Integration: The Missing Link",
+        "Your Personal Food Swap Plan",
+        "Closing Reflection"
+      ],
+      "hasIssues": false,
+      "missingRequiredSections": [],
+      "orderIssues": [],
+      "unexpectedSectionsAfterPlan": [],
+      "spacing": {
+        "multiBlankLineGaps": 0,
+        "trailingSpaces": 0,
+        "missingBlankLineAfterHeadings": 0,
+        "sceneBreakSpacingIssues": 0
+      },
+      "mainTopicSectionCount": 6,
+      "mainTopicSections": [
+        "The Superfood Illusion",
+        "The Common Food Reality",
+        "Mineralizing The Modern Plate",
+        "A Grocery Store Reframe",
+        "The Power Of Everyday Combinations",
+        "Building A Mineral Pattern Without Drama"
+      ],
+      "practicalSubsections": [
+        "Everyday Foods Worth Respecting",
+        "How To Build A Mineral Pattern",
+        "What To Buy When Money Is Tight"
+      ],
+      "hasClosingSection": true,
+      "closingHeading": "Closing Reflection",
+      "referencesHeading": null,
+      "missingVoiceElementsAcrossChapter": [],
+      "weakMainTopicSections": [],
+      "recommendations": [],
+      "totalWordCount": 2128
+    },
+    {
+      "file": "Chapter8Draft.md",
+      "headings": [
+        "Introduction",
+        "Why Blending Feels Different",
+        "Blending As The Bridge Back To Whole Foods",
+        "Flavor Engineering Instead Of Willpower",
+        "Making The Habit Easy Enough To Keep",
+        "Juicing, Blending, And The Feeling Of Instant Energy",
+        "Keeping Supplements In A Supporting Role",
+        "Integration: The Missing Link",
+        "Your Personal Food Swap Plan",
+        "Closing Reflection"
+      ],
+      "hasIssues": false,
+      "missingRequiredSections": [],
+      "orderIssues": [],
+      "unexpectedSectionsAfterPlan": [],
+      "spacing": {
+        "multiBlankLineGaps": 0,
+        "trailingSpaces": 0,
+        "missingBlankLineAfterHeadings": 0,
+        "sceneBreakSpacingIssues": 0
+      },
+      "mainTopicSectionCount": 6,
+      "mainTopicSections": [
+        "Why Blending Feels Different",
+        "Blending As The Bridge Back To Whole Foods",
+        "Flavor Engineering Instead Of Willpower",
+        "Making The Habit Easy Enough To Keep",
+        "Juicing, Blending, And The Feeling Of Instant Energy",
+        "Keeping Supplements In A Supporting Role"
+      ],
+      "practicalSubsections": [
+        "A Simple Blend Formula",
+        "What To Prep Ahead",
+        "How To Keep It Sustainable"
+      ],
+      "hasClosingSection": true,
+      "closingHeading": "Closing Reflection",
+      "referencesHeading": null,
+      "missingVoiceElementsAcrossChapter": [],
+      "weakMainTopicSections": [],
+      "recommendations": [],
+      "totalWordCount": 2099
+    },
+    {
+      "file": "Chapter9Draft.md",
+      "headings": [
+        "Introduction",
+        "What Detox Really Means",
+        "Reducing Body Burden Through Basics",
+        "Detox-Supportive Foods And Blending",
+        "Herbs, Garlic, And Targeted Support Without Drama",
+        "Gentle Rhythms Instead Of Dramatic Cleanses",
+        "Detoxing The Home Environment",
+        "Detoxing The Mind And Relationships",
+        "Planning For Derailers",
+        "What To Remove Before You Buy More",
+        "Integration: The Missing Link",
+        "Your Personal Food Swap Plan",
+        "Closing Reflection"
+      ],
+      "hasIssues": false,
+      "missingRequiredSections": [],
+      "orderIssues": [],
+      "unexpectedSectionsAfterPlan": [],
+      "spacing": {
+        "multiBlankLineGaps": 0,
+        "trailingSpaces": 0,
+        "missingBlankLineAfterHeadings": 0,
+        "sceneBreakSpacingIssues": 0
+      },
+      "mainTopicSectionCount": 9,
+      "mainTopicSections": [
+        "What Detox Really Means",
+        "Reducing Body Burden Through Basics",
+        "Detox-Supportive Foods And Blending",
+        "Herbs, Garlic, And Targeted Support Without Drama",
+        "Gentle Rhythms Instead Of Dramatic Cleanses",
+        "Detoxing The Home Environment",
+        "Detoxing The Mind And Relationships",
+        "Planning For Derailers",
+        "What To Remove Before You Buy More"
+      ],
+      "practicalSubsections": [
+        "Low-Cost Burden Reduction Wins",
+        "Food And Rhythm Support That Can Actually Last",
+        "What To Clean Up First",
+        "What To Watch Without Panic",
+        "Derailers To Notice Early"
+      ],
+      "hasClosingSection": true,
+      "closingHeading": "Closing Reflection",
+      "referencesHeading": null,
+      "missingVoiceElementsAcrossChapter": [],
+      "weakMainTopicSections": [],
+      "recommendations": [],
+      "totalWordCount": 3815
+    }
+  ]
+}

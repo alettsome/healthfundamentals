@@ -1,0 +1,30 @@
+{
+  "name": "healthfundamentals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "book": "node bookWorkflow.js",
+    "book:check:chapter1": "node bookWorkflow.js check chapter1",
+    "book:check:all": "node bookWorkflow.js check all",
+    "book:fix:chapter1:dry": "node bookWorkflow.js fix chapter1 --dry",
+    "book:fix:chapter1": "node bookWorkflow.js fix chapter1 --write",
+    "book:fix:all:dry": "node bookWorkflow.js fix all --dry",
+    "book:fix:all": "node bookWorkflow.js fix all --write",
+    "zoho:export": "node tools/export-zoho-tasks.js",
+    "check:chapter1": "node checkChapter1.js",
+    "check:chapters": "node checkChapters.js",
+    "fix:chapter1": "node fixChapters.js --chapter=1 --write",
+    "fix:chapters": "node fixChapters.js --write",
+    "fix:chapters:dry": "node fixChapters.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "botbuilder": "^4.23.3",
+    "express": "^5.2.1"
+  }
+}

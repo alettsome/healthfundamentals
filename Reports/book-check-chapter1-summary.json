@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-18T14:04:20.373Z",
+  "scope": "chapter1",
+  "template": {
+    "path": "WritingStyle\\ChapterTemplate-v2.md",
+    "requiredAnchors": [
+      "Introduction",
+      "Integration: The Missing Link",
+      "Your Personal Food Swap Plan"
+    ],
+    "recommendedClosingHeadings": [
+      "Conclusion",
+      "Ending Summary",
+      "Closing Reflection",
+      "Key Takeaways"
+    ],
+    "optionalReferenceHeadings": [
+      "References",
+      "Notes",
+      "Sources"
+    ]
+  },
+  "summary": {
+    "chapterCount": 1,
+    "chaptersWithIssues": 1
+  },
+  "chapters": [
+    {
+      "file": "Chapter1Draft.md",
+      "headings": [
+        "Introduction",
+        "Water",
+        "Minerals",
+        "Vitamins",
+        "Protein / Essential Amino Acids",
+        "Essential Fats",
+        "Integration: The Missing Link",
+        "Your Personal Food Swap Plan",
+        "Closing Reflection"
+      ],
+      "hasIssues": true,
+      "missingRequiredSections": [],
+      "orderIssues": [],
+      "unexpectedSectionsAfterPlan": [],
+      "spacing": {
+        "multiBlankLineGaps": 2,
+        "trailingSpaces": 0,
+        "missingBlankLineAfterHeadings": 0,
+        "sceneBreakSpacingIssues": 0
+      },
+      "mainTopicSectionCount": 5,
+      "mainTopicSections": [
+        "Water",
+        "Minerals",
+        "Vitamins",
+        "Protein / Essential Amino Acids",
+        "Essential Fats"
+      ],
+      "practicalSubsections": [
+        "The Universal Building Block Smoothie",
+        "Affordable, Real-World Meal Ideas",
+        "Universal Principles for Integration"
+      ],
+      "hasClosingSection": true,
+      "closingHeading": "Closing Reflection",
+      "referencesHeading": null,
+      "missingVoiceElementsAcrossChapter": [],
+      "weakMainTopicSections": [],
+      "recommendations": [],
+      "totalWordCount": 4782
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+Backups/
+.history/
+.lh/
+.vscode/
+node_modules/

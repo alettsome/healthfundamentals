@@ -1,0 +1,234 @@
+[
+  {
+    "task_name": "Finalize packaging set",
+    "description": "Approve the final title, subtitle, front cover, back cover, marketplace description, and metadata.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "High",
+    "phase": "Packaging"
+  },
+  {
+    "task_name": "Choose domain name",
+    "description": "Buy the domain that will be used for the website, companion page, and QR code destination.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "High",
+    "phase": "Website"
+  },
+  {
+    "task_name": "Decide publishing company name",
+    "description": "Choose the publishing company or imprint name that will appear on the site and book materials.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "High",
+    "phase": "Brand"
+  },
+  {
+    "task_name": "Define website structure",
+    "description": "Approve the simple site structure with a main brand home and a dedicated page for Health Fundamentals.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "High",
+    "phase": "Website"
+  },
+  {
+    "task_name": "Choose website platform",
+    "description": "Decide whether to use a static site stack or managed WordPress, with security and portability as the priority.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "High",
+    "phase": "Website"
+  },
+  {
+    "task_name": "Create Health Fundamentals page",
+    "description": "Build the dedicated book page with the cover, promise, buy buttons, companion note, and future testimonials area.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "High",
+    "phase": "Website"
+  },
+  {
+    "task_name": "Choose distribution model",
+    "description": "Confirm the hybrid model with the website as the home base and Amazon as an optional buying path.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "High",
+    "phase": "Distribution"
+  },
+  {
+    "task_name": "Define direct checkout stack",
+    "description": "Choose the low-cost direct checkout and delivery setup for the website.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "High",
+    "phase": "Distribution"
+  },
+  {
+    "task_name": "Choose CRM and support setup",
+    "description": "Pick the lightweight CRM and support flow for customer questions, order issues, and companion requests.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "Medium",
+    "phase": "Operations"
+  },
+  {
+    "task_name": "Define support automation",
+    "description": "Choose the first simple automations for form intake, confirmations, customer tags, and companion access requests.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "Medium",
+    "phase": "Operations"
+  },
+  {
+    "task_name": "Decide bot disclosure policy",
+    "description": "Write the rule for how the site will clearly disclose when a visitor is interacting with an AI assistant.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "Medium",
+    "phase": "Operations"
+  },
+  {
+    "task_name": "Outline companion resource",
+    "description": "Approve the Health Fundamentals Companion Field Guide structure, size, naming, and delivery method.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "High",
+    "phase": "Companion"
+  },
+  {
+    "task_name": "Define front and back matter",
+    "description": "Approve the opening note, how-to-use page, references and notes, appendices, and companion access note.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "High",
+    "phase": "Manuscript"
+  },
+  {
+    "task_name": "Refine opening note draft",
+    "description": "Tighten the opening note so it feels final-reader ready and bridges cleanly into Chapter 1.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "Medium",
+    "phase": "Manuscript"
+  },
+  {
+    "task_name": "Refine how-to-use page",
+    "description": "Tighten the How To Use This Book page so it feels final-reader ready and clear.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "Medium",
+    "phase": "Manuscript"
+  },
+  {
+    "task_name": "Refine companion access note",
+    "description": "Tighten the buyer-facing companion note and replace placeholders once the domain and access details are ready.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "Medium",
+    "phase": "Manuscript"
+  },
+  {
+    "task_name": "Choose purchase verification flow",
+    "description": "Decide how direct buyers and Amazon buyers will unlock the companion resource.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "High",
+    "phase": "Companion"
+  },
+  {
+    "task_name": "Choose companion access code",
+    "description": "Choose the access word or code that retailer buyers will use to unlock the companion page.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "High",
+    "phase": "Companion"
+  },
+  {
+    "task_name": "Generate QR code",
+    "description": "Generate the QR code that points readers from the printed book to the companion page once the domain is live.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "High",
+    "phase": "Distribution"
+  },
+  {
+    "task_name": "Review manuscript physical length strategy",
+    "description": "Decide whether to keep the manuscript concise or add more support material for stronger print presence.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "Medium",
+    "phase": "Manuscript"
+  },
+  {
+    "task_name": "Design Amazon-to-site bridge",
+    "description": "Set the short URL, QR destination, and in-book wording that move retailer buyers to the website.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "High",
+    "phase": "Distribution"
+  },
+  {
+    "task_name": "Define blender guidance framework",
+    "description": "Keep the blender guidance brand-neutral and practical by budget, durability, cleaning, and use case.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "Medium",
+    "phase": "Companion"
+  },
+  {
+    "task_name": "Refine companion field guide draft",
+    "description": "Tighten the companion draft into final buyer language, including buying, washing, storage, filter, and reset guidance.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "Medium",
+    "phase": "Companion"
+  },
+  {
+    "task_name": "Prepare Amazon listing inputs",
+    "description": "Finalize the retailer description, categories, and keyword language for marketplace upload.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "Medium",
+    "phase": "Retail"
+  },
+  {
+    "task_name": "Prepare direct-site launch copy",
+    "description": "Finalize the hero copy, calls to action, problem-solution message, and FAQ for the book page.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "Medium",
+    "phase": "Website"
+  },
+  {
+    "task_name": "Review website security setup",
+    "description": "Confirm the hosting, SSL, access control, backups, and low-maintenance security approach before launch.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "High",
+    "phase": "Website"
+  },
+  {
+    "task_name": "Create launch checklist",
+    "description": "Turn the strategy into a simple step-by-step launch sequence.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "Medium",
+    "phase": "Launch"
+  },
+  {
+    "task_name": "Evaluate physical companion products",
+    "description": "Decide whether to launch a minimal journal first, then a mug later.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "Low",
+    "phase": "Brand"
+  },
+  {
+    "task_name": "Define journal and pen set",
+    "description": "Plan the companion journal and refillable pen set so it supports notes, reflection, and the health journey without feeling expensive.",
+    "owner": "Owner",
+    "status": "Open",
+    "priority": "Low",
+    "phase": "Brand"
+  }
+]
