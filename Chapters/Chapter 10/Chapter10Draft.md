@@ -20,9 +20,9 @@ This chapter is not about perfect discipline. It is about sustainability, accoun
 
 (Narrator: Health rarely survives by willpower alone. It survives more easily in environments that make better choices simpler, more visible, and less exhausting. A supportive environment does not guarantee success, but an unsupportive one quietly increases friction everywhere.)
 
-On Monday evening, Judy walked into Alex's apartment and noticed a small change immediately.
+On Monday afternoon, Judy walked into the office break room and noticed a small change immediately.
 
-The water bottle was filled. The blender was clean. Oats sat at the front of the cupboard instead of buried behind snacks. A bag of greens was visible in the fridge.
+Alex's water bottle was filled. A shaker cup was clean and ready beside his lunch bag. Oats sat in the front of his desk drawer instead of buried behind snacks. A bag of greens was visible in the shared fridge with his name on it.
 
 Judy smiled. "Look at this. Evidence of civilization."
 
@@ -32,9 +32,9 @@ Alex shrugged, trying not to look too pleased. "I moved the good choices where I
 
 Judy nodded. "That matters more than people think. Health is easier to sustain when the environment helps instead of sabotages."
 
-(Narrator: This chapter begins here because a sustainable life is shaped by rooms, counters, routines, reminders, and visual cues. A clear counter makes blending easier. A visible water bottle helps hydration happen earlier. A ready fallback meal lowers the chance of reactive food decisions. A calmer bedroom supports better sleep. Good intentions need somewhere to land.)
+(Narrator: This chapter begins here because a sustainable life is shaped by routines, reminders, visual cues, and setups that reduce friction. A visible water bottle helps hydration happen earlier. A ready fallback meal lowers the chance of reactive food decisions. A packed bag, a clear desk, a written plan, or groceries placed where they will be used all help good intentions find somewhere to land.)
 
-Alex looked around the kitchen. "So part of long-term health is basically strategic laziness."
+Alex looked around the break room. "So part of long-term health is basically strategic laziness."
 
 "Strategic design," Judy corrected.
 
@@ -68,11 +68,11 @@ Alex sat down slowly. "So support does not mean building a wellness cult. It mea
 
 (Narrator: Readers often underestimate how much long-term progress depends on the tone of the inner voice. Not because affirmations are magic, but because repeated self-talk shapes what people do after mistakes. Shame is terrible at building consistency. It is excellent at building surrender.)
 
-That evening, Alex stood in the kitchen after an off day that had included too much caffeine, not enough food, and an emergency pastry that he referred to as "an emotional event."
+That evening, Alex stood in the break room after an off day that had included too much caffeine, not enough food, and an emergency pastry that he referred to as "an emotional event."
 
 "This," he said, "is usually where I tell myself I ruined the day."
 
-Judy leaned against the counter. "And then what happens?"
+Judy leaned against the table. "And then what happens?"
 
 "Then I keep ruining it more efficiently."
 
@@ -82,7 +82,7 @@ Judy nodded. "That is why mindset belongs in the long-game chapter. The question
 
 (Narrator: This is also where emotional eating belongs in the conversation. Sometimes a difficult eating pattern is not only about appetite. It is about stress, loneliness, fatigue, resentment, comfort, or overwhelm. Moderation may still be the right principle, but moderation becomes easier when the underlying state is not being ignored. A person who never addresses the emotion keeps asking food to solve a problem it cannot solve for long.)
 
-Alex looked down at the counter. "So the goal is not to become a saint around food. It is to become more honest about what I am actually reaching for."
+Alex looked down at the empty pastry wrapper. "So the goal is not to become a saint around food. It is to become more honest about what I am actually reaching for."
 
 "Exactly," Judy said. "If comfort eating is becoming a pattern, there is usually a feeling or condition asking to be understood."
 
@@ -116,7 +116,7 @@ Alex blinked. "That might be the sentence I needed three years ago."
 
 (Narrator: Longevity gets distorted easily. People hear the word and imagine expensive routines, advanced tests, and endless optimization. But practical longevity often looks far more ordinary: stable meals, movement you can sustain, enough sleep, reasonable stress, repeated basics, and periodic course correction.)
 
-Sunday morning found Judy and Alex with a notebook open between them.
+Sunday morning found Judy and Alex on a park bench with a notebook open between them.
 
 "What is that?" Alex asked.
 

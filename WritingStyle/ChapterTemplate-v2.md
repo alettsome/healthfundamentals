@@ -21,6 +21,7 @@ Every chapter should include these anchor sections in this order:
 - These are the main teaching sections for the chapter.
 - They do not need to reuse Chapter 1 headings like `Water` or `Minerals`.
 - Historical context can appear here when it genuinely strengthens the chapter.
+  When used, it can work well as a short direct-prose note after the introduction and before the Judy/Alex narration begins.
 
 ## Integration: The Missing Link
 - Connect the main ideas instead of leaving them isolated.

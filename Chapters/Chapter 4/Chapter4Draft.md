@@ -180,7 +180,7 @@ Alex sighed. "So if I am always rushing, always stimulated, always catching up, 
 
 (Narrator: Mindset is often presented either too shallowly or too dramatically. This book is not arguing that affirmations replace nutrition, sleep, or stress relief. It is arguing that the inner voice matters because repeated self-talk shapes behavior. A reader who constantly speaks to himself with contempt builds resistance into every change.)
 
-That evening, Alex stood in the kitchen looking at the sink, the blender, and the ingredients he had meant to use earlier.
+That evening, Alex stood in the break room looking at the sink, the blender cup, and the ingredients he had meant to use earlier.
 
 "This is usually where I say, 'I've already messed up today, so forget it,'" he admitted.
 
@@ -265,7 +265,7 @@ Ask yourself:
 
 Judy stood and gathered the mugs. "You do not rebuild a life by trying to become impressive overnight, Alex. You rebuild it by strengthening what carries you every day."
 
-Alex looked around the kitchen, then back at the notebook on the table. "That feels more manageable. Less like chasing health. More like building a life that supports it."
+Alex looked around the room, then back at the notebook on the table. "That feels more manageable. Less like chasing health. More like building a life that supports it."
 
 *That, I thought, might be the first definition of vitality that did not exhaust me.*
 

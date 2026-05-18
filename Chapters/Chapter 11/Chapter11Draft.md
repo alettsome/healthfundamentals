@@ -246,7 +246,7 @@ Ask yourself:
 
 Judy stood and gathered the mugs. "Technology can help, Alex. AI can help. But none of it gets to become your master."
 
-Alex looked at the notebook, the water bottle, the phone, and the quiet kitchen around him. "That feels like the real lesson. Use the tools. Keep the self."
+Alex looked at the notebook, the water bottle, and the phone on the table between them. "That feels like the real lesson. Use the tools. Keep the self."
 
 *That felt right. Not anti-modern. Not naive. Just steadier.*
 

@@ -14,25 +14,13 @@ Throughout this chapter, the focus stays practical. The point is not to overwhel
 
 ## Historical Context: Then and Now
 
-(Narrator: There was a time when people did not talk about "nutrient synergy" as a wellness trend. They simply lived closer to the conditions that made it easier to happen. Meals were built more often from whole ingredients. Food was fresher. Water was less processed in some settings, though not always safer. Fermented foods, broths, garden foods, and slower preparation methods quietly supported the body's interconnected needs.)
+There was a time when people did not need the phrase "nutrient synergy" because daily life itself preserved more of the pattern. Food was more often prepared from basic ingredients at home. Broths, ferments, eggs, beans, oats, garden produce, and slower cooking methods were more ordinary. Natural remedies and food-based support were familiar parts of life in many homes, not niche ideas set against a heavily fragmented system.
 
-On Monday afternoon, Judy found Alex refilling his water bottle in the break room.
+This book's position is that much of modern sickness makes more sense when readers see how far daily life has drifted from those older patterns. Especially through the late twentieth century, including the cultural shift that accelerated after the 1970s, convenience food, industrial processing, aggressive marketing, and increasingly fragmented health messaging became more dominant. Meals became faster, more packaged, more engineered, and more separated from their natural context. Medicine became more specialized and often more disconnected from food, rhythm, and everyday foundations.
 
-"Look at you," she said, smiling. "A week ago, that filter was still gathering dust."
+That does not mean the past was perfect, or that earlier generations never got sick. It means many people lived closer to patterns that naturally bundled support together. They often ate food with more of its natural structure intact, used simpler preparation methods, and relied more heavily on practical traditions that worked with the body rather than constantly bypassing it.
 
-Alex snorted. "Don't get carried away. I filled it once. Let's call it a diplomatic opening."
-
-*Still, the bottle in my hand felt better than another soda. That had to count for something.*
-
-Judy leaned against the counter. "It counts because it changes the context. In the past, a lot of people got more of these basics without having to think about them quite so hard. They ate closer to the source. They consumed fewer engineered products. Their food often arrived with more of its natural structure intact."
-
-Alex nodded slowly. "And now everything's fast, packaged, fortified, stripped down, recombined, and marketed like a personality trait."
-
-(Narrator: That contrast matters. Modern life has brought convenience, but it has also brought fragmentation. Food is grown in depleted soil, processed for shelf life, and often marketed through isolated claims instead of whole patterns. Readers are told to chase one nutrient, then another, then another, until health starts to feel like a shopping list with no end.)
-
-Judy's expression softened. "That's why this chapter matters. If you only understand the parts, modern health culture keeps selling them back to you in pieces. But once you understand how they work together, it's much harder to get manipulated by noise."
-
-*That landed harder than I wanted to admit. Maybe half my frustration wasn't laziness. Maybe it was confusion.*
+That contrast matters because it helps explain the thesis of this chapter. The body works together, but modern life keeps teaching people to think in pieces. Readers are encouraged to chase one nutrient, one symptom, one product, and one promise at a time, until health starts to feel like an endless list of disconnected fixes. This chapter pushes back against that fragmentation by showing how the body actually behaves: as a living system of relationships.
 
 ## Nutrient Interdependence
 

@@ -42,7 +42,7 @@ Alex shifted the basket in his hand. "So the goal is not to eat like a monk. It 
 
 (Narrator: One of the stranger habits of modern wellness culture is that it often takes value away from common foods and then tries to sell that value back in a more expensive form. Greens become powders. Fruit becomes an extract. A broad food becomes a branded highlight reel of one or two of its most marketable traits.)
 
-Later that evening, Judy spread a banana, a carton of eggs, a sheet of nori, and a small tub of greens powder on the counter.
+Later that evening, Judy spread a banana, a carton of eggs, a sheet of nori, and a small tub of greens powder across the break-room table.
 
 Alex looked at the lineup. "This feels like a courtroom exhibit."
 
@@ -66,7 +66,7 @@ Judy smiled. "Exactly. That does not mean every powder is worthless. It means or
 
 (Narrator: Mineralization deserves its own emphasis because it adds an entire layer of meaning to the book's thesis. Readers are not only trying to eat "healthy." Many are trying to restore depth to a pattern that has become thin, processed, repetitive, or depleted. Mineral-rich foods help widen the nutritional field again. They do not solve everything by themselves, but they often strengthen the base that other supports depend on.)
 
-The next morning, Judy arranged a small spread on the counter: eggs, greens, lentils, sardines, yogurt, pumpkin seeds, and seaweed flakes.
+The next morning, Judy arranged a small spread across a picnic table: eggs, greens, lentils, sardines, yogurt, pumpkin seeds, and seaweed flakes.
 
 Alex looked at the table. "This is the least flashy health display I have ever seen."
 
@@ -88,7 +88,7 @@ Alex nodded slowly. "So mineralization is really about diversity, not hype."
 
 (Narrator: One of the book's convictions is that broad natural sources deserve more attention than they often receive, especially in a food environment shaped by soil depletion, over-processing, and narrowed eating habits. This is one reason sea vegetables matter in this framework. They are not magic. They are simply one example of how nature often concentrates value in places modern diets neglect.)
 
-The next day, Judy set a small container of seaweed flakes, a bunch of parsley, a lemon, and a bulb of garlic on the counter.
+The next day, Judy set a small container of seaweed flakes, a bunch of parsley, a lemon, and a bulb of garlic on the lunch table.
 
 Alex looked at the lineup. "This feels like the beginning of either a health lesson or a mild interrogation."
 
@@ -130,7 +130,7 @@ Alex looked relieved. "So I do not need to make every item perfect."
 
 (Narrator: Buying better is one layer. Preparing food realistically is another. Many readers feel better when they know how to wash produce more thoroughly, reduce surface residues, and store food in ways that make it more likely to be used. This chapter is not promising sterile perfection. It is offering simple steps that reduce friction and improve confidence.)
 
-Back in the kitchen, Judy filled a bowl with water and reached for baking soda.
+At the break-room sink, Judy filled a bowl with water and reached for baking soda.
 
 Alex leaned forward. "Now this part I care about. If I bring food home, I want to know how to clean it properly. Not in a dramatic way. Just in a real way."
 
@@ -140,7 +140,7 @@ Alex leaned forward. "Now this part I care about. If I bring food home, I want t
 
 Judy lifted a head of cabbage. "Another thing people miss is storage. If the process feels difficult every time, the food will rot while you are tired. Wash some items ahead. Chop a few basics. Cook beans in batches if you tolerate them well. Use frozen berries or greens when that makes life easier. Use canned fish or canned beans when the week is tight. This is not cheating. It is intelligent prep."
 
-Alex looked at the counter. "So health is partly a refrigeration strategy."
+Alex looked at the bowl and laughed softly. "So health is partly a refrigeration strategy."
 
 Judy laughed. "More than people like to admit."
 
@@ -148,19 +148,19 @@ Judy laughed. "More than people like to admit."
 
 ## What An Affordable Healing Kitchen Can Look Like
 
-(Narrator: Many readers imagine that a healthy kitchen has to look expensive, elaborate, or online-ready. It does not. A modest kitchen with a few solid staples can support more healing than a beautiful kitchen built around inconsistency.)
+(Narrator: Many readers imagine that a healthy food setup has to look expensive, elaborate, or online-ready. It does not. A modest routine with a few solid staples can support more healing than a beautiful setup built around inconsistency.)
 
-Judy opened the cupboard and started pointing.
+Judy opened a grocery bag and started pointing.
 
 "This is closer to what I want readers to picture," she said. "Oats. Beans or lentils. Rice or another simple starch. Eggs. A few frozen vegetables. Some greens when possible. Garlic. Lemon. Seaweed flakes. Yogurt. Canned fish. A few herbs. Olive oil. Maybe sweet potatoes. Maybe cabbage. Maybe carrots. Not glamorous. Just dependable."
 
 Alex crossed his arms. "And the blender."
 
-"Yes," Judy said, smiling. "And the blender. But the principle matters more than the appliance. The kitchen should make a few good combinations easy."
+"Yes," Judy said, smiling. "And the blender. But the principle matters more than the appliance. The routine should make a few good combinations easy."
 
-(Narrator: This is where the chapter stays intentionally practical. It does not need to become a recipe book. The aim is to help readers imagine a kitchen that can produce better breakfasts, better fallback meals, better blends, better soups, better bowls, and better simple combinations without requiring constant reinvention.)
+(Narrator: This is where the chapter stays intentionally practical. It does not need to become a recipe book. The aim is to help readers imagine a routine that can produce better breakfasts, better fallback meals, better blends, better soups, better bowls, and better simple combinations without requiring constant reinvention.)
 
-Alex looked around the kitchen and nodded. "That actually feels possible. Which is weirdly motivating."
+Alex looked over the groceries and nodded. "That actually feels possible. Which is weirdly motivating."
 
 *Maybe hope is easier to believe when it looks like groceries instead of marketing.*
 
@@ -234,7 +234,7 @@ Ask yourself:
 
 (Narrator: This chapter was never about settling for less. It was about seeing more clearly. The foods that support health are not always the ones with the loudest labels. Often they are the foods that remain quietly useful, affordable, and available enough to become part of a real life.)
 
-Judy began putting the groceries away. "You do not need a heroic cart, Alex. You need a cart that makes sense."
+Judy began packing the groceries back into the bags. "You do not need a heroic cart, Alex. You need a cart that makes sense."
 
 Alex smiled faintly. "That may be the healthiest thing anyone has said to me in a store."
 

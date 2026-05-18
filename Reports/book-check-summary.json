@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-17T21:45:37.944Z",
+  "generatedAt": "2026-05-18T22:23:43.093Z",
   "scope": "all",
   "template": {
     "path": "WritingStyle\\ChapterTemplate-v2.md",
@@ -23,7 +23,7 @@
   },
   "summary": {
     "chapterCount": 11,
-    "chaptersWithIssues": 0
+    "chaptersWithIssues": 2
   },
   "chapters": [
     {
@@ -39,12 +39,12 @@
         "Your Personal Food Swap Plan",
         "Closing Reflection"
       ],
-      "hasIssues": false,
+      "hasIssues": true,
       "missingRequiredSections": [],
       "orderIssues": [],
       "unexpectedSectionsAfterPlan": [],
       "spacing": {
-        "multiBlankLineGaps": 0,
+        "multiBlankLineGaps": 1,
         "trailingSpaces": 0,
         "missingBlankLineAfterHeadings": 0,
         "sceneBreakSpacingIssues": 0
@@ -68,7 +68,7 @@
       "missingVoiceElementsAcrossChapter": [],
       "weakMainTopicSections": [],
       "recommendations": [],
-      "totalWordCount": 5683
+      "totalWordCount": 4786
     },
     {
       "file": "Chapter10Draft.md",
@@ -112,7 +112,7 @@
       "missingVoiceElementsAcrossChapter": [],
       "weakMainTopicSections": [],
       "recommendations": [],
-      "totalWordCount": 1962
+      "totalWordCount": 1995
     },
     {
       "file": "Chapter11Draft.md",
@@ -206,9 +206,11 @@
       "closingHeading": "Closing Reflection",
       "referencesHeading": null,
       "missingVoiceElementsAcrossChapter": [],
-      "weakMainTopicSections": [],
+      "weakMainTopicSections": [
+        "Historical Context: Then and Now"
+      ],
       "recommendations": [],
-      "totalWordCount": 3173
+      "totalWordCount": 3139
     },
     {
       "file": "Chapter3Draft.md",
@@ -258,9 +260,11 @@
       "closingHeading": "Closing Reflection",
       "referencesHeading": null,
       "missingVoiceElementsAcrossChapter": [],
-      "weakMainTopicSections": [],
+      "weakMainTopicSections": [
+        "Historical Context: Then and Now"
+      ],
       "recommendations": [],
-      "totalWordCount": 3311
+      "totalWordCount": 3225
     },
     {
       "file": "Chapter4Draft.md",
@@ -312,7 +316,7 @@
       "missingVoiceElementsAcrossChapter": [],
       "weakMainTopicSections": [],
       "recommendations": [],
-      "totalWordCount": 3145
+      "totalWordCount": 3147
     },
     {
       "file": "Chapter5Draft.md",
@@ -360,7 +364,7 @@
       "missingVoiceElementsAcrossChapter": [],
       "weakMainTopicSections": [],
       "recommendations": [],
-      "totalWordCount": 3079
+      "totalWordCount": 3090
     },
     {
       "file": "Chapter6Draft.md",
@@ -404,7 +408,7 @@
       "missingVoiceElementsAcrossChapter": [],
       "weakMainTopicSections": [],
       "recommendations": [],
-      "totalWordCount": 2099
+      "totalWordCount": 2106
     },
     {
       "file": "Chapter7Draft.md",
@@ -496,7 +500,7 @@
       "missingVoiceElementsAcrossChapter": [],
       "weakMainTopicSections": [],
       "recommendations": [],
-      "totalWordCount": 2099
+      "totalWordCount": 2100
     },
     {
       "file": "Chapter9Draft.md",
@@ -505,7 +509,7 @@
         "What Detox Really Means",
         "Reducing Body Burden Through Basics",
         "Detox-Supportive Foods And Blending",
-        "Herbs, Garlic, And Targeted Support Without Drama",
+        "Herbs, Garlic, and Targeted Support - Tradition Meets Practicality",
         "Gentle Rhythms Instead Of Dramatic Cleanses",
         "Detoxing The Home Environment",
         "Detoxing The Mind And Relationships",
@@ -515,12 +519,12 @@
         "Your Personal Food Swap Plan",
         "Closing Reflection"
       ],
-      "hasIssues": false,
+      "hasIssues": true,
       "missingRequiredSections": [],
       "orderIssues": [],
       "unexpectedSectionsAfterPlan": [],
       "spacing": {
-        "multiBlankLineGaps": 0,
+        "multiBlankLineGaps": 1,
         "trailingSpaces": 0,
         "missingBlankLineAfterHeadings": 0,
         "sceneBreakSpacingIssues": 0
@@ -530,7 +534,7 @@
         "What Detox Really Means",
         "Reducing Body Burden Through Basics",
         "Detox-Supportive Foods And Blending",
-        "Herbs, Garlic, And Targeted Support Without Drama",
+        "Herbs, Garlic, and Targeted Support - Tradition Meets Practicality",
         "Gentle Rhythms Instead Of Dramatic Cleanses",
         "Detoxing The Home Environment",
         "Detoxing The Mind And Relationships",
@@ -550,7 +554,7 @@
       "missingVoiceElementsAcrossChapter": [],
       "weakMainTopicSections": [],
       "recommendations": [],
-      "totalWordCount": 3815
+      "totalWordCount": 4664
     }
   ]
 }

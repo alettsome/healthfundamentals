@@ -60,7 +60,7 @@ Alex leaned back. "So the bottle may be giving the headline, but the food was ca
 
 (Narrator: The body's needs are cooperative. One thing often needs another. A fat-soluble vitamin needs fat. Iron benefits from Vitamin C. Herbs often work better inside a body that is hydrated, mineral-supported, and not running on fumes. This is where the missing instruction manual becomes practical.)
 
-Later that evening, Judy set spinach, lemon, olive oil, and pumpkin seeds on the counter.
+Later that evening, Judy set spinach, lemon, olive oil, and pumpkin seeds on the table in the lunchroom.
 
 "This," she said, "is part of what the bottle culture under-teaches."
 
@@ -84,7 +84,7 @@ Alex nodded slowly. "So the missing instruction manual is not hidden in a secret
 
 (Narrator: This critique does not stop with synthetic supplements. Natural health can become fragmented in the same way. A product may come from a respectable plant or ocean source and still be marketed as if one helper can replace a weak foundation.)
 
-On Wednesday morning, Alex pulled a few herbal bottles from a cupboard and lined them up.
+On Wednesday morning, Alex pulled a few herbal bottles from his tote bag and lined them up on the table.
 
 "I need to admit something," he said. "There have been seasons where I kept buying the next herb because I thought maybe that would be the thing that finally fixed everything."
 
@@ -94,7 +94,7 @@ Judy nodded with gentle sympathy. "A lot of thoughtful people do that. It is not
 
 (Narrator: Herbs can matter. Extracts can matter. Specific nutrients can matter. Targeted supplementation can matter. The problem begins when helpers are promoted like foundations. A person who is under-hydrated, under-mineralized, poorly fed, chronically stressed, and sleeping badly may keep reaching for stronger helpers while the floor remains weak.)
 
-Judy rested her hand on the counter. "Herbs are often helpers, not heroes. They may support a process. They may nudge a system. But they do not replace water, minerals, protein, fats, food structure, digestion, rest, or rhythm."
+Judy rested her hand on the table. "Herbs are often helpers, not heroes. They may support a process. They may nudge a system. But they do not replace water, minerals, protein, fats, food structure, digestion, rest, or rhythm."
 
 Alex exhaled. "So even a good herb can underperform inside a body that is still missing basics."
 

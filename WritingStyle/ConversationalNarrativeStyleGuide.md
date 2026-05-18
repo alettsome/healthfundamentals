@@ -36,6 +36,17 @@
    - Maintain the conversational tone and structure throughout the chapter.
    - Ensure each section feels like a continuation of the dialogue.
 
+8. **Respectable Scene Framing**:
+   - Prefer scenes in workplaces, lunch breaks, parks, buffets, potlucks, community meals, and other public or semi-public settings.
+   - Use visible food settings to help readers imagine choices, contrast patterns, and learn through observation.
+   - Avoid overusing private apartment or intimate domestic scenes for Judy and Alex.
+
+9. **Alex's Humor**:
+   - Let Alex be funny through curious, grounded, and slightly offbeat observations.
+   - Keep him sincere even when he jokes.
+   - Avoid sarcasm, cynicism, or humor that makes him sound bitter or dismissive.
+   - Use Chapter 1 as the strongest model for how his humor should land.
+
 ## Purpose
 - To create an engaging, relatable, and actionable narrative that resonates with readers.
 - To empower readers to take control of their health through small, manageable steps.

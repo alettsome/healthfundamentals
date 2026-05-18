@@ -38,7 +38,7 @@ Alex laughed. "The egg does not have great marketing."
 
 (Narrator: The common food reality is simple: some of the most useful foods in a healing kitchen are plain, affordable, and already nearby. Eggs. Oats. Greens. Beans. Lentils. Cabbage. Bananas. Yogurt. Sardines. Sweet potatoes. Pumpkin seeds. Sea vegetables. Garlic. Lemons. Frozen berries. These are not glamorous foods. They are working foods.)
 
-Back at the kitchen table, Judy started building a lineup:
+Back at the picnic table, Judy started building a lineup:
 
 - eggs
 - spinach
